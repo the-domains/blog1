@@ -1,0 +1,28 @@
+name: blog1
+favicon: null
+layout_spectrum: 0.9795879642479122
+typography_spectrum: 0.9445382985286415
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.22295431606471539
+  lightness: 0.9792590911965817
+  saturation: 0.9036176730878651
+  rhythmicContrast: 0.3618431817740202
+purpose: []
